@@ -1,13 +1,14 @@
 # Awesome-AI-One-Click-Deployment
 This is the repo for one-click or simple deployment of open source AI applications
 
-## Service provided
-Free one-click deployment in 1 minute
-Provide generation deployment service and help with deployment for a fee
+## The Service provided
+Searching for open-source AI Applications that can be easily deployed, like one-click deployment.
+Then, you can just make your one-click deployment within a minute!
 
 ## Roadmap
- 1. Support mainstream ChatGPT-like projects for deployment with Vercel etc
- 2. Support the privatization deployment of mainstream ChatGPT-like projects
- 3. Support other projects about LLM
+ 1. Support awesome ChatGPT alike applications that can be deployed easily with Vercel.
+ 2. Support the local deployment of awesome ChatGPT alike applications.
+ 3. Support other AI projects using LLM and other models.
 
-## Support list
+## AI Application list
+
