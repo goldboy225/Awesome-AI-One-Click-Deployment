@@ -13,8 +13,8 @@ Then, you can just make your one-click deployment within a minute!
 ## AI Application list
 | Project Name       | Description                                                                                                                                                  | Deployment     |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| AutoGPT-Next-Web   | 一键免费部署你的私人 AutoGPT 网页应用                                                                                                                        | Deploy with Vercel |
-| chatgpt-web        | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页                                                                                                                   | Deploy with Railway |
+| [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)   | One-Click to deploy well-designed AutoGPT-Next-Web web UI on Vercel. 一键免费部署你的私人 AutoGPT-Next-Web 网页应用。                                                                                                                        |  |
+| [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)        | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页                                                                                                                   | Deploy with Railway |
 | ChatGPT-Next-Web   | 一键免费部署你的私人 ChatGPT 网页应用                                                                                                                        | Deploy with Vercel |
 | wechat-chatgpt     | 通过wechaty在微信上使用ChatGPT                                                                                                                               | Deploy with Railway |
 | chatgpt-demo       | Minimal web UI for ChatGPT.                                                                                                                                  | Deploy with Vercel |
