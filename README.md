@@ -6,11 +6,11 @@ Searching for open-source AI Applications that can be easily deployed, like one-
 Then, you can just make your one-click deployment within a minute!
 
 ## Roadmap
- 1. Support awesome ChatGPT alike applications that can be deployed easily with Vercel.
+ 1. Support awesome ChatGPT alike projects and applications that can be deployed easily.
  2. Support the local deployment of awesome ChatGPT alike applications.
  3. Support other AI projects using LLM and other models.
 
-## AI Application list
+## AI Project list
 | Project Name       | Description                                                                                                                                                  | Deployment     |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)   | One-Click to deploy well-designed AutoGPT-Next-Web web UI on Vercel. 一键免费部署你的私人 AutoGPT-Next-Web 网页应用。                                                                                                                        | [Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDogtiti%2FAutoGPT-Next-Web&env=OPENAI_API_KEY&project-name=autogpt-next-web&repository-name=AutoGPT-Next-Web) |
